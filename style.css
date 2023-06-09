@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(152, 221, 245);
+    margin: 0
+}
+
+.container {
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+input[type="text" i] {
+    width: 180px;
+    height: 18px;
+    border-radius: 5px;
+}
+
+ol li {
+    cursor: pointer;
+    position: relative;
+    background: rgb(118, 196, 223);
+    font-size: 18px;
+    transition: 0.2s;
+    width: 200px;
+    height: 20px;
+    border-bottom: 1px solid blue;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+
+button {
+    background-color: rgb(180, 147, 211);
+    border-radius: 10px;
+    width: 110px;
+    height: 23px;
+}
+
+H1 {
+    margin-left: 50px;
+}
